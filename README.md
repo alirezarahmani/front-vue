@@ -1,3 +1,4 @@
 Sample Blog:
 ===
-a sample blog using redux + react
+
+very simple blog using redux + react
